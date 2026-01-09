@@ -1,0 +1,15 @@
+name: ift411_login_app
+description: Flutter app for IFT 411 assignment
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+
+flutter:
+  assets:
+    - assets/screenshots/
